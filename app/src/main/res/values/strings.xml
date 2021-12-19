@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RPSGame</string>
+    <string name="you">You</string>
+    <string name="computer">Computer</string>
+    <string name="selects_stone">selects stone</string>
+    <string name="comp">comp</string>
+    <string name="comp2">Comp</string>
+    <string name="displays_computer_score">Displays Computer Score</string>
+    <string name="displays_user_score">Displays user score</string>
+    <string name="selects_paper">selects_paper</string>
+    <string name="selects_scissors">selects_scissors</string>
+    <string name="resets_the_score">Resets the score</string>
+    <string name="exit">EXIT</string>
+    <string name="always_win_mode">Always win mode</string>
+    <string name="stone">stone</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="restart">Restart</string>
+    <string name="welcome_to_the_classic_stone_paper_scissors_game_play_more_to_unlock_additional_features_click_one_of_the_3_to_get_started">Welcome to the classic Stone paper Scissors Game. Play more to unlock additional features. Click one of the 3 to get started</string>
+    <string name="displays_the_image_selected_by_the_pc">Displays the image selected by the pc</string>
+    <string name="Stone">Stone</string>
+    <string name="shows_the_image_of_user_input">shows the image of user input</string>
+    <string name="__0">0</string>
+
+</resources>
